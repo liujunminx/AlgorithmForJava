@@ -1,4 +1,4 @@
-package com.algorithm.comparesort;
+package sort.comparesort;
 
 import java.util.Arrays;
 

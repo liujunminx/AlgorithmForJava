@@ -1,4 +1,4 @@
-package com.algorithm.comparesort;
+package sort.comparesort;
 
 /**
  * 快速排序

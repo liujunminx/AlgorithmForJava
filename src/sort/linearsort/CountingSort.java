@@ -1,4 +1,4 @@
-package com.algorithm.linearsort;
+package sort.linearsort;
 
 import java.util.Arrays;
 
