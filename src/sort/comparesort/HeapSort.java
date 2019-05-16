@@ -72,7 +72,8 @@ public class HeapSort {
         int n = array.length;
         int heapSize = array.length;
         //子数组array [ (|_n/2_| + 1) .... n ] 中的元素都是树中的叶子
-        for(int i= n/2; i>=0; i--){
+        //array[2n - 2, ....0]都是内节点
+        for(int i= n/2-1; i>=0; i--){
             maxHeapify(array, i, heapSize);
         }
     }
@@ -148,7 +149,8 @@ public class HeapSort {
 
     public static void main(String[] args) {
         int[] array = new int[]{4, 1, 3, 2, 16, 9, 10, 14, 8, 7};
-        array = Arrays.copyOfRange(array, 0, array.length+1);
+        HeapSort sort = new HeapSort();
+        sort.heapSort(array);
         System.out.println(Arrays.toString(array));
     }
 }
