@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d63afd6-8517-4a2a-bd1b-511e2c9dae97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sort/comparesort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/comparesort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic_planning/LCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/META-INF/算法导论.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/data_structure/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/data_structure/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/data_structure/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/data_structure/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/data_structure/LinkList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/data_structure/LinkList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/data_structure/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/data_structure/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/ArraysRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/ArraysRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/comparesort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/sort/linearsort/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/sort/linearsort/CountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/tree/BinarySearch$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/tree/BinarySearch$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/tree/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/tree/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree$RBColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree$RBColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree$RBNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree$RBNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/算法导论/tree/RedBlackTree.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +43,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/comparesort/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="270">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/comparesort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-232">
-              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+            <state relative-caret-position="2835">
+              <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_planning/LCS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="926">
+              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -43,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/comparesort/ArraysRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
+            <state relative-caret-position="1701">
               <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
             </state>
           </provider>
@@ -52,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/RedBlackTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
+            <state relative-caret-position="8262">
               <caret line="318" column="50" selection-start-line="318" selection-start-column="50" selection-end-line="318" selection-end-column="50" />
               <folding>
                 <element signature="e#9255#9256#0" expanded="true" />
@@ -63,18 +90,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_structure/ArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
+            <state relative-caret-position="1107">
               <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
@@ -83,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_structure/LinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1659">
+            <state relative-caret-position="2133">
               <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
             </state>
           </provider>
@@ -92,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3822">
+            <state relative-caret-position="4914">
               <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
             </state>
           </provider>
@@ -101,21 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/linearsort/CountingSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="459">
               <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11151">
-              <caret line="570" column="40" selection-start-line="570" selection-start-column="40" selection-end-line="570" selection-end-column="40" />
-              <folding>
-                <element signature="e#15785#15786#0" expanded="true" />
-                <element signature="e#15834#15835#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -143,12 +148,13 @@
         <option value="$PROJECT_DIR$/src/tree/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/tree/RedBlackTree.java" />
         <option value="$PROJECT_DIR$/src/sort/comparesort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_planning/LCS.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="121" />
-    <option name="y" value="277" />
+    <option name="x" value="240" />
+    <option name="y" value="193" />
     <option name="width" value="850" />
     <option name="height" value="553" />
   </component>
@@ -157,8 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,19 +179,14 @@
               <item name="AlgorithmForJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmForJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmForJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmForJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="comparesort" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic_planning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,6 +194,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
@@ -210,20 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
-    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.ArrayQueue" />
-      <module name="算法导论" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LCS">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearch" />
       <module name="算法导论" />
@@ -243,6 +232,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sort.comparesort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_planning.LCS" />
+      <module name="算法导论" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic_planning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCS" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.RedBlackTree" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinkList" />
-        <item itemvalue="Application.ArrayQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +310,8 @@
       <workItem from="1557828915609" duration="406000" />
       <workItem from="1557915717253" duration="242000" />
       <workItem from="1557994264971" duration="935000" />
+      <workItem from="1558786723926" duration="112000" />
+      <workItem from="1558846882786" duration="9945000" />
     </task>
     <task id="LOCAL-00001" summary="终于写完红黑树了，虽然删除节点时总是有空指针错误">
       <created>1557915822419</created>
@@ -320,12 +324,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68380000" />
+    <option name="totallyTimeSpent" value="78437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="719" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18957704" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,8 +338,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31304348" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5565217" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31164384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5565069" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -389,69 +393,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/sort/comparesort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="270">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/comparesort/ArraysRandom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
+        <state relative-caret-position="1701">
           <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1659">
-          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3822">
-          <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/linearsort/CountingSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11151">
-          <caret line="570" column="40" selection-start-line="570" selection-start-column="40" selection-end-line="570" selection-end-column="40" />
-          <folding>
-            <element signature="e#15785#15786#0" expanded="true" />
-            <element signature="e#15834#15835#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/RedBlackTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
+        <state relative-caret-position="8262">
           <caret line="318" column="50" selection-start-line="318" selection-start-column="50" selection-end-line="318" selection-end-column="50" />
           <folding>
             <element signature="e#9255#9256#0" expanded="true" />
@@ -460,10 +420,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/linearsort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/comparesort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        <state relative-caret-position="2835">
+          <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_planning/LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="926">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
         </state>
       </provider>
     </entry>
